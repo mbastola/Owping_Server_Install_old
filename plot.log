@@ -1,0 +1,857 @@
+602
+
+602
+602
+
+602
+11
+00:00~13:12
+602
+
+602
+13
+00:00~13:14
+602
+
+602
+00:00~13:16
+602
+798
+602
+798
+00:00~13:23
+602
+805
+602
+805
+00:00~13:24
+602
+806
+602
+806
+00:00~13:25
+602
+807
+602
+807
+00:00~13:26
+602
+808
+602
+808
+00:00~13:27
+602
+809
+602
+809
+00:00~13:28
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+00:00~13:29
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+00:00~13:32
+602
+814
+602
+814
+00:00~13:33
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+00:00~13:34
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+00:00~13:39
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+00:00~14:39
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+00:00~14:41
+602
+883
+602
+883
+00:00~14:46
+602
+888
+602
+888
+00:00~14:48
+602
+890
+602
+890
+00:00~14:52
+602
+894
+602
+894
+00:00~14:53
+602
+895
+602
+895
+00:00~15:4
+602
+
+602
+00:00~15:4
+602
+
+602
+00:00~15:5
+602
+
+602
+00:00~15:6
+602
+
+602
+00:00~15:6
+602
+
+602
+
+
+00:00~15:9
+602
+
+602
+00:00~15:11
+602
+913
+602
+913
+00:00~15:11
+602
+913
+602
+913
+T10:00~T
+602
+919
+602
+919
+T10:00~T15:19: 
+602
+921
+
+success
+T10:00~T15:22:
+602
+924
+
+success
+T10:00~T15:22:
+602
+924
+
+success
+T10:00~T15:24:
+success
+T00:00~T15:24:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+success
+T00:00~T15:25:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+T10:00~T15:28:
+success
+T10:00~T15:29:
+success
+T10:00~T15:42:
+success
+T10:00~T15:43:
+success
+T10:00~T16:21:
+success
+T10:00~T16:22:
+success
+T10:00~T16:22:
+success
+T10:00~T16:22:
+success
+T10:00~T16:24:
+success
+T10:00~T16:25:
+success
+T00:00~T16:25:
+success
+T00:00~T16:27:
+
+success
+T10:00~T16:27:
+
+success
+T10:00~T16:27:
+
+success
+T10:00~T16:28:602
+990
+
+success
+T10:00~T16:28:602
+990
+
+success
+T10:00~T16:29:602
+991
+
+success
+T10:00~T16:30:602992
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+T10:00~T16:31:602993
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+T10:00~T16:32:602994
+success
+T10:00~T16:33:602995
+success
+T10:00~T16:35:602997
+success
+T10:00~T16:35:602997
+success
+T00:00~T16:36:2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+998
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+T00:00~T10:16:2618
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+T00:00~T10:18:2620
+success
+T00:00~T10:18:2620
+success
+T00:00~T10:19:2621
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+T00:00~T10:45:2647
+success
+T00:00~T10:47:2649
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+T10:00~T11:28:602690
+success
+T10:00~T11:31
+602693
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+T10:00~T10:15
+602617
+success
+T00:00~T11:32
+2694
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+T00:00~T10:47
+2646
+success
+T00:00~T10:47
+2646
+success
+T00:00~T10:57
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+656
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+T00:00~T11:21
+2
+success
+T00:00~T11:23
+2
+success
+T00:00~T11:25
+2
+success
+T00:00~T11:25
+2
+success
+T00:00~T11:26
+2
+success
+T00:00~T11:28
+2
+success
+T00:00~T11:31
+2
+success
+T00:00~T11:32
+2
+success
+T00:00~T11:32
+2
+success
+T00:00~T11:33
+2
+success
+T00:00~T11:34
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+success
+T00:00~T11:40
+2
+success
+T00:00~T11:40
+2
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+T00:00~T11:41
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+success
+T00:00~T11:41
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+success
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).
+usage: /usr/local/bin/owping/owplot.sh options
+
+This script plots the owping data.
+
+OPTIONS:
+   -h      Show this message
+   -d	   BeginDate~EndDate
+   -t      BeginTime~EndTime 
+   -x      Plot type. Can be l (LOSS), d (DELAY), j (JITTER).

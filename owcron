@@ -1,0 +1,7 @@
+#!/bin/bash
+#This script run every 5 seconds
+while (sleep 5 && [ /tmp/.lastupdate -nt /usr/local/bin/owping/lastupdated.txt ] || ( /usr/local/bin/owping/main.sh >> /usr/local/bin/owping/plot.log ; touch /tmp/.lastupdate )) &
+do
+    wait $!
+done
+
